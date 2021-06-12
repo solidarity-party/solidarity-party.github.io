@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="600"
+   viewBox="0 0 600 600"
+   version="1.1"
+   id="svg855"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Square-text-red-logo NEW.svg">
+  <title
+     id="title1738">American Solidarity Party logo</title>
+  <defs
+     id="defs849">
+    <filter
+       id="filter4924"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:menu-tooltip="Basic specular bevel to use for building textures"
+       inkscape:menu="Bevels"
+       inkscape:label="Combined Lighting">
+      <feGaussianBlur
+         id="feGaussianBlur4906"
+         result="result0"
+         in="SourceGraphic"
+         stdDeviation="3" />
+      <feDiffuseLighting
+         id="feDiffuseLighting4910"
+         result="result5"
+         surfaceScale="2"
+         diffuseConstant="1"
+         lighting-color="rgb(255,255,255)">
+        <feDistantLight
+           id="feDistantLight4908"
+           azimuth="235"
+           elevation="45" />
+      </feDiffuseLighting>
+      <feComposite
+         id="feComposite4912"
+         operator="arithmetic"
+         result="fbSourceGraphic"
+         in="result5"
+         in2="SourceGraphic"
+         k1="1.4" />
+      <feGaussianBlur
+         id="feGaussianBlur4914"
+         stdDeviation="3"
+         in="fbSourceGraphic"
+         result="result0" />
+      <feSpecularLighting
+         id="feSpecularLighting4918"
+         in="result0"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="1"
+         specularExponent="25">
+        <feDistantLight
+           id="feDistantLight4916"
+           elevation="45"
+           azimuth="235" />
+      </feSpecularLighting>
+      <feComposite
+         id="feComposite4920"
+         result="result4"
+         in2="result1"
+         in="fbSourceGraphic"
+         operator="arithmetic"
+         k2="1"
+         k3="1" />
+      <feComposite
+         id="feComposite4922"
+         in="result4"
+         in2="SourceGraphic"
+         result="result2"
+         operator="in" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.995"
+     inkscape:cx="300"
+     inkscape:cy="300"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata852">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>American Solidarity Party logo</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Desmond Silveira</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>American Solidarity Party logo, created from scratch in order to mimic the bitmap logo created by Elizabeth Polzin Hawks</dc:description>
+        <dc:date>2021-04-30</dc:date>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#022355;fill-opacity:1"
+       id="rect859"
+       width="600"
+       height="600"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Sun"
+     sodipodi:insensitive="true">
+    <circle
+       style="fill:#d0081e;fill-opacity:1;stroke-width:1.51203"
+       id="path1423"
+       cx="259"
+       cy="260"
+       r="204" />
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="CD">
+    <text
+       id="text3714"
+       y="465.02466"
+       x="498.52209"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:1.25;font-family:Gadugi;-inkscape-font-specification:'Gadugi Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#d0081e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="465.02466"
+         x="498.52209"
+         id="tspan3716"
+         sodipodi:role="line">CD</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="ASP"
+     sodipodi:insensitive="true">
+    <text
+       y="203.97656"
+       x="84.353516"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.5px;line-height:114%;font-family:'Bell MT';-inkscape-font-specification:'Bell MT Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text1448"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         id="tspan3368"
+         x="84.353516"
+         y="203.97656"
+         rotate="0 0 0 0 0 0 0 0 0"><tspan
+           style="font-size:60px"
+           id="tspan3370"
+           dy="0"
+           dx="0"
+           rotate="0 0">A</tspan><tspan
+           id="tspan3710">MERICAN</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="84.353516"
+         y="260.82758"
+         id="tspan3372"
+         rotate="0 0 0 0 0 0 0 0 0 0 0"><tspan
+           style="font-size:60px"
+           id="tspan3376"
+           rotate="0 0">S</tspan><tspan
+           id="tspan3712">OLIDARITY</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="84.353516"
+         y="317.67859"
+         id="tspan3374"
+         rotate="0 0 0 0 0 0"><tspan
+           style="font-size:60px;letter-spacing:-5.7px"
+           id="tspan3378"
+           rotate="0 0">P</tspan><tspan
+           id="tspan3396">ARTY</tspan></tspan></text>
+  </g>
+  <g
+     sodipodi:insensitive="true"
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Pelican">
+    <path
+       id="path2217"
+       d="m 432.80236,544.81848 c -0.17711,-0.19009 -4.36304,-0.97041 -9.30205,-1.73403 -11.03124,-1.70557 -25.34548,-5.23571 -39.08462,-9.63895 -48.13945,-15.42813 -74.30038,-22.98058 -93.80813,-27.08157 -13.02288,-2.73773 -21.6644,-6.08455 -39.42015,-15.2672 -11.94703,-6.17858 -18.73738,-10.6352 -21.1758,-13.89799 -1.15967,-1.55172 -2.46446,-4.63867 -3.79089,-8.96865 -1.44733,-4.72464 -2.30347,-6.69252 -3.01016,-6.91899 -0.54316,-0.17405 -4.53696,0.68737 -8.87513,1.91429 -18.32792,5.18349 -37.25723,8.604 -56.71561,10.24842 -13.20024,1.11556 -14.41032,1.4501 -22.29585,6.16396 l -2.32382,1.38913 -0.60069,-1.55971 c -0.87505,-2.27206 -0.24585,-7.62232 1.239,-10.53547 1.06535,-2.09016 1.97914,-2.90261 5.38217,-4.78525 11.11246,-6.14774 34.75026,-16.85475 49.5148,-22.42832 16.31485,-6.1588 25.32245,-11.7713 37.31293,-23.24922 4.4566,-4.26609 9.16829,-8.47066 10.47044,-9.3435 5.06976,-3.39828 19.08039,-4.96786 35.25607,-3.94966 16.68238,1.05011 25.49236,2.75444 34.64362,6.70201 2.83168,1.22149 5.54142,2.2209 6.02165,2.2209 1.19105,0 -1.03588,-3.0085 -8.12937,-10.98244 -9.97376,-11.21175 -11.61886,-13.95112 -11.15443,-18.57401 0.57386,-5.71225 7.70702,-26.70116 12.17455,-35.82292 2.6784,-5.46875 3.37229,-8.40508 5.39669,-22.8374 2.5293,-18.03188 5.07084,-22.853 8.98259,-17.03942 1.94832,2.89554 2.55727,9.59003 1.7761,19.52528 -0.34526,4.3912 -1.01614,9.70812 -1.49085,11.81536 -0.47471,2.10725 -0.75436,3.94117 -0.62145,4.07535 0.60289,0.6087 5.60207,-4.69915 8.34268,-8.85778 3.77783,-5.73248 8.81079,-16.33939 9.76423,-20.57797 0.3965,-1.76267 0.94669,-3.20485 1.22266,-3.20485 0.73821,0 3.3144,4.99978 4.66946,9.06238 1.68801,5.06076 1.25089,9.68094 -1.65163,17.45762 -1.23101,3.29818 -2.23817,6.07644 -2.23817,6.17394 0,0.0974 0.4309,0.17831 0.95756,0.17961 1.87185,0.004 10.34194,-6.41377 15.73139,-11.92081 6.06869,-6.20108 7.89784,-7.60891 9.22033,-7.09653 1.42012,0.55021 1.60949,-0.94553 0.90831,-7.17491 -1.36059,-12.08789 1.75675,-20.42988 15.29599,-40.93184 10.4638,-15.84493 21.87041,-35.56985 33.38643,-57.73359 7.54616,-14.52335 15.97372,-30.28882 18.51795,-34.64161 4.99207,-8.54066 13.63038,-36.10739 14.9282,-47.63903 0.61997,-5.50888 1.8014,-7.96855 3.94928,-8.22219 1.3389,-0.15811 1.64123,0.15194 2.96277,3.03852 1.33171,2.90873 1.46633,3.7928 1.41488,9.29161 -0.068,7.26898 -1.99267,19.02073 -5.06354,30.91747 -2.24716,8.70564 -3.6647,12.59671 -5.57686,15.30799 -2.11462,2.99834 -0.66918,2.17516 2.91341,-1.65921 7.54996,-8.08057 16.46606,-26.15212 21.98797,-44.56625 2.44645,-8.15824 4.66935,-14.2516 5.96072,-16.33938 3.41889,-5.52732 5.53427,10.46336 3.19231,24.13148 -2.18823,12.771 -3.8839,17.14134 -12.88178,33.20085 -1.73667,3.09963 -3.03588,5.95859 -2.88714,6.35326 0.45879,1.21737 7.98035,-7.1032 12.97089,-14.34874 6.03484,-8.76172 13.08666,-20.15388 20.21027,-32.64943 3.14052,-5.50881 5.90494,-10.01602 6.14314,-10.01602 1.2358,0 2.31623,3.15017 2.53702,7.397 0.21124,4.06373 0.0358,5.12484 -1.74849,10.57591 -1.09079,3.33242 -4.44073,11.03108 -7.4443,17.10811 -4.95234,10.01993 -6.95567,13.25465 -13.5738,21.91718 -1.01635,1.33032 -1.54638,2.45826 -1.20858,2.57194 1.78966,0.60231 10.50242,-6.23393 26.06488,-20.45117 12.60184,-11.51253 17.65725,-15.91578 18.27302,-15.91578 1.52887,0 1.21574,6.25032 -0.51203,10.22046 -1.05162,2.41648 -5.95177,8.66047 -14.5241,18.50731 -7.49343,8.60755 -9.81323,11.56439 -9.40008,11.98153 0.51857,0.52359 8.34935,-1.7166 15.01197,-4.29453 9.77277,-3.78134 11.23023,-4.27113 11.91728,-4.00494 0.36319,0.14072 0.97699,1.39766 1.36398,2.79321 1.06967,3.85737 -0.0735,5.48553 -8.1212,11.56677 l -6.7194,5.0775 3.16274,0.38844 c 1.73951,0.21364 3.83632,0.73421 4.65956,1.1568 2.83701,1.45632 2.68259,5.44367 -0.37923,9.79172 -2.28398,3.24346 -3.41429,6.50352 -4.06206,11.71592 -0.55944,4.50135 -1.37703,6.32603 -4.43081,9.88843 -3.24059,3.78035 -3.49627,4.43771 -2.38938,6.14335 1.37108,2.11271 0.53702,5.34488 -4.9546,19.19988 -4.9506,12.49006 -6.85436,18.03301 -6.95426,20.24806 -0.0343,0.75961 0.2091,6.85045 0.54081,13.53519 1.60342,32.31263 -0.28064,75.21941 -3.80947,86.75465 -0.73822,2.41314 -1.97166,4.64885 -3.86761,7.01043 -3.99757,4.97929 -4.45369,6.31978 -4.00423,11.76761 0.49095,5.95062 0.20368,7.02174 -3.32874,12.41156 -1.63928,2.50125 -2.98052,5.15784 -2.98052,5.90355 0,0.90142 -0.9766,2.34183 -2.91392,4.29784 -3.03722,3.06652 -5.84906,4.77617 -10.48555,6.37546 -2.67913,0.92411 -2.7411,0.99549 -2.69017,3.09823 0.0287,1.18378 0.36456,3.64397 0.74642,5.46707 1.37926,6.58482 -0.0233,14.75349 -3.24273,18.88576 -1.59251,2.04409 -2.65227,6.09126 -3.5879,13.70197 -0.76773,6.24494 -0.75912,6.67584 0.14579,7.29913 1.72902,1.19093 4.14589,3.1816 5.30099,4.36621 0.62287,0.63877 2.1174,1.48304 3.3212,1.87617 1.20379,0.39312 5.63594,2.32246 9.84922,4.2874 17.12016,7.98436 22.02124,9.68975 33.02761,11.49236 11.80034,1.93264 18.9263,4.56613 26.97651,9.96954 4.74769,3.1867 7.72093,7.42 4.66806,6.64639 -0.82481,-0.20903 -2.4855,0.29717 -4.78781,1.45936 l -3.52495,1.77937 -14.08986,-0.11626 c -8.22264,-0.0678 -14.08986,0.0938 -14.08986,0.38836 0,0.85013 3.80125,1.67073 10.34122,2.23247 9.68207,0.83161 14.28184,2.5264 14.28184,5.26216 0,1.92656 -1.7558,2.82274 -8.51533,4.34628 -3.2917,0.74192 -9.67838,2.29365 -14.1926,3.44828 -7.62029,1.94909 -8.77549,2.09998 -16.14178,2.10835 -7.47559,0.009 -8.13077,-0.0787 -11.33747,-1.51026 -1.87185,-0.83559 -3.97772,-1.51926 -4.67972,-1.51926 -0.70197,0 -4.31643,0.86672 -8.03212,1.92604 -3.71569,1.0593 -10.24148,2.42012 -14.50177,3.024 -8.24658,1.16895 -21.15135,2.04182 -21.68701,1.4669 z M 316.24372,450.25811 c 4.70297,-0.90598 6.46431,-1.90058 6.97029,-3.93602 1.12018,-4.50621 -4.86418,-26.15761 -7.04097,-25.4742 -0.63834,0.20043 -1.35918,2.21599 -5.19301,14.5204 -1.64267,5.27201 -3.9446,10.05784 -6.61752,13.75815 l -1.95688,2.70901 4.8961,-0.39897 c 2.69287,-0.21945 6.71676,-0.74971 8.94199,-1.17837 z m 48.10027,-74.38947 c 0.90309,-0.9118 0.82557,-3.47984 -0.12919,-4.27986 -1.02752,-0.861 -2.82806,0.0694 -3.35049,1.73129 -0.27869,0.88654 -0.0533,1.47655 0.84432,2.21043 1.44294,1.17969 1.76139,1.22055 2.63536,0.33814 z m -5.62051,-18.31967 c 5.89042,-2.86652 5.97177,-3.0209 6.18272,-11.73496 0.124,-5.12176 -0.007,-7.40196 -0.42231,-7.40196 -1.31978,0 -9.83592,15.42792 -10.7496,19.47411 -0.45544,2.01687 0.24978,1.96921 4.98919,-0.33719 z"
+       style="fill:#ffffff;stroke-width:1.1017;filter:url(#filter4924)" />
+  </g>
+</svg>
